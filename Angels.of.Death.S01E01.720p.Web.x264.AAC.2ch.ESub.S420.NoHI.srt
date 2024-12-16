@@ -1,0 +1,799 @@
+1
+00:00:46,293 --> 00:00:49,373
+Nós somos a vontade do Imperador concretizada.
+
+2
+00:01:01,083 --> 00:01:03,163
+Pelo imperador!
+
+3
+00:01:19,713 --> 00:01:21,633
+Fomos tirados do pó.
+
+4
+00:01:29,253 --> 00:01:32,543
+Nós nos livramos de nossas fraquezas, de nossa fragilidade
+
+5
+00:01:41,793 --> 00:01:42,923
+Para se tornar...
+
+6
+00:01:46,333 --> 00:01:47,463
+Anjos.
+
+7
+00:02:18,500 --> 00:02:26,700
+{\an7} Legenda melhorada por Sailor420
+
+8
+00:02:18,500 --> 00:02:26,700
+{\an3} !!! Espero que gostem do show !!!
+
+9
+00:03:12,923 --> 00:03:13,923
+Não!
+
+10
+00:03:36,043 --> 00:03:37,543
+Em sangue eu nasci.
+
+11
+00:03:38,753 --> 00:03:40,333
+Na batalha eu vivo.
+
+12
+00:03:41,293 --> 00:03:42,963
+Na luz eu me levanto.
+
+13
+00:03:44,583 --> 00:03:46,213
+Na escuridão eu caio...
+
+14
+00:03:47,623 --> 00:03:50,623
+Em sangue seremos renovados.
+
+15
+00:03:52,713 --> 00:03:54,593
+Honorável Capelão Rafael.
+
+16
+00:04:01,123 --> 00:04:04,203
+Somos irmãos antes de qualquer outra categoria.
+
+17
+00:04:05,333 --> 00:04:07,413
+Você deseja algo para mim?
+
+18
+00:04:08,873 --> 00:04:10,953
+Apenas para falar com um amigo.
+
+19
+00:04:11,583 --> 00:04:13,213
+Tenho deveres a cumprir.
+
+20
+00:04:13,293 --> 00:04:16,083
+Deveres além desta solidão voluntária?
+
+21
+00:04:16,873 --> 00:04:19,043
+Não há nada que eu queira falar, capelão.
+
+22
+00:04:19,123 --> 00:04:21,413
+Eu patrulharei os conveses inferiores
+
+23
+00:04:21,503 --> 00:04:24,713
+Eu estava lá para ver você ter sucesso nas provas.
+
+24
+00:04:24,793 --> 00:04:28,253
+Eu vi você se tornar um anjo tanto no coração quanto nas ações.
+
+25
+00:04:28,333 --> 00:04:33,293
+No entanto, agora vejo um irmão que preferiria me ver como um estranho.
+
+26
+00:04:34,873 --> 00:04:37,753
+Nós estávamos perdidos nas tempestades e agora estamos presos
+
+27
+00:04:37,833 --> 00:04:39,463
+sobre este mundo devastado.
+
+28
+00:04:39,543 --> 00:04:41,293
+Impedido de retornar ao abençoado Baal.
+
+29
+00:04:41,373 --> 00:04:43,293
+Você não se irrita com essa inação?
+
+30
+00:04:43,873 --> 00:04:47,873
+Seu serviço na Vigilância da Morte fez de você nada mais que uma arma, Kazarion?
+
+31
+00:04:47,963 --> 00:04:51,133
+Você não consegue mais encontrar paz, mesmo aqui?
+
+32
+00:04:51,213 --> 00:04:54,883
+O que mais é um Space Marine do que uma espada contra a escuridão?
+
+33
+00:04:55,793 --> 00:04:57,173
+A galáxia queima.
+
+34
+00:04:57,253 --> 00:04:59,083
+Enfrentamos a aniquilação! Eu...
+
+35
+00:05:00,253 --> 00:05:01,883
+Não desperdiçarei mais palavras.
+
+36
+00:05:02,463 --> 00:05:03,963
+Essa ameaça sempre existiu,
+
+37
+00:05:04,043 --> 00:05:07,713
+desde que a humanidade se arrastou pela primeira vez da superfície da Terra.
+
+38
+00:05:09,753 --> 00:05:13,503
+Mas é uma ameaça que enfrentamos juntos.
+
+39
+00:05:15,333 --> 00:05:16,623
+Como você disse.
+
+40
+00:06:26,963 --> 00:06:28,543
+Resumir.
+
+41
+00:06:28,623 --> 00:06:32,293
+Ainda não conseguimos falar com o Capitão Orpheo ou sua comitiva, a Mestra do Navio.
+
+42
+00:06:32,583 --> 00:06:35,873
+A distorção do sinal continua aumentando na atmosfera do planeta.
+
+43
+00:06:36,503 --> 00:06:39,213
+Fomos informados de que a cidade na base da torre orbital
+
+44
+00:06:39,293 --> 00:06:40,673
+é suposto estar deserto.
+
+45
+00:06:41,213 --> 00:06:43,843
+Não há nada lá embaixo, pelo menos nada que possa atrasar o Capitão.
+
+46
+00:06:45,423 --> 00:06:47,553
+Abra um link vox para o dock orbital.
+
+47
+00:06:47,793 --> 00:06:49,423
+Sim, Comandante do Navio.
+
+48
+00:06:50,543 --> 00:06:52,003
+Link Vox estabelecido.
+
+49
+00:06:56,003 --> 00:06:57,883
+Este é o Capitão Solken
+
+50
+00:06:57,963 --> 00:07:00,793
+do Cruzador de Ataque dos Blood Angels Espada de Baal.
+
+51
+00:07:00,963 --> 00:07:01,963
+Responder.
+
+52
+00:07:02,543 --> 00:07:08,123
+Aqui é o Comando da Espira Orbital de Niades, é uma grande honra para nós nos dirigirmos a vocês.
+
+53
+00:07:08,213 --> 00:07:10,963
+e conversar com você novamente, Capitão da Espada de...
+
+54
+00:07:11,043 --> 00:07:12,673
+Perdemos a comunicação
+
+55
+00:07:12,753 --> 00:07:14,833
+com uma força de reconhecimento enviada à superfície
+
+56
+00:07:14,923 --> 00:07:17,633
+e precisam de ajuda para estabelecer sua localização exata.
+
+57
+00:07:18,003 --> 00:07:20,793
+Claro que faremos tudo o que pudermos,
+
+58
+00:07:20,873 --> 00:07:23,833
+mas como elucidamos anteriormente,
+
+59
+00:07:23,923 --> 00:07:28,843
+mais honrada comandante do navio, a superfície do nosso mundo outrora verdejante
+
+60
+00:07:28,923 --> 00:07:34,753
+é atormentada por tempestades eletromagnéticas que são severas e incessantes.
+
+61
+00:07:35,003 --> 00:07:36,543
+Isso não é assunto para debate.
+
+62
+00:07:36,793 --> 00:07:41,213
+Organize qualquer força que reste na superfície e localize nosso Capitão.
+
+63
+00:07:41,293 --> 00:07:44,623
+Quero dizer apenas respeito e adoração,
+
+64
+00:07:44,713 --> 00:07:49,253
+mas por favor compreendam que os elementos rebeldes
+
+65
+00:07:49,333 --> 00:07:51,413
+pode ter encontrado uma maneira de entrar na cidade,
+
+66
+00:07:51,503 --> 00:07:54,173
+agora que escolhemos escapar do-
+
+67
+00:07:54,253 --> 00:07:56,333
+Você deverá cumprir dentro de uma hora ou,
+
+68
+00:07:56,423 --> 00:07:59,093
+pelo Imperador, você desejará ter feito isso.
+
+69
+00:08:01,583 --> 00:08:04,213
+Você pensaria que eles poderiam ter conversado até a morte
+
+70
+00:08:04,713 --> 00:08:06,253
+Quanto tempo até reabastecermos?
+
+71
+00:08:06,833 --> 00:08:09,623
+O petroleiro de promécio quase concluiu o reabastecimento,
+
+72
+00:08:10,043 --> 00:08:12,623
+carregamento prioritário de suprimentos e reparos estão em andamento.
+
+73
+00:08:12,713 --> 00:08:15,133
+Conclusão estimada: padrão de quatro horas.
+
+74
+00:08:15,213 --> 00:08:18,593
+Ótimo. Estamos prontos para zarpar assim que terminar.
+
+75
+00:08:24,833 --> 00:08:26,583
+Já estamos aqui há tempo suficiente.
+
+76
+00:09:10,503 --> 00:09:14,293
+Ah! Eu pensei que encontraria esses cofres vazios,
+
+77
+00:09:14,373 --> 00:09:15,753
+Irmão Ancaeus.
+
+78
+00:09:15,833 --> 00:09:19,833
+Irmão Hadrael, não tive a intenção de perturbar seus rituais.
+
+79
+00:09:19,923 --> 00:09:23,553
+Quatrocentos e vinte e seis impedimentos únicos para esta nave vazia
+
+80
+00:09:23,793 --> 00:09:25,623
+mantiveram a mim e às equipes de trabalho ocupados.
+
+81
+00:09:26,423 --> 00:09:29,843
+Tivemos a sorte de encontrar um porto seguro neste planeta.
+
+82
+00:09:30,923 --> 00:09:32,843
+É bom ver você, irmão.
+
+83
+00:09:34,253 --> 00:09:37,083
+Vocês estão abaixo do convés desde que saímos da tempestade.
+
+84
+00:09:37,673 --> 00:09:40,173
+O que o traz a essas posições novamente?
+
+85
+00:09:44,963 --> 00:09:48,093
+Eu cuidaria do que sobrasse depois da batalha.
+
+86
+00:09:49,923 --> 00:09:51,303
+Sem um boticário,
+
+87
+00:09:51,373 --> 00:09:54,663
+é tudo o que posso fazer para garantir que seu legado continue.
+
+88
+00:09:55,253 --> 00:09:57,003
+Você faz um trabalho vital.
+
+89
+00:09:57,543 --> 00:10:00,333
+Gostaria que seus esforços fossem registrados quando retornarmos a Baal.
+
+90
+00:10:01,793 --> 00:10:03,293
+Obrigado, irmão.
+
+91
+00:10:04,083 --> 00:10:07,623
+Se as tempestades vierem, o navio estará pronto.
+
+92
+00:10:07,713 --> 00:10:10,543
+"Quando", irmão, não "se"
+
+93
+00:10:11,873 --> 00:10:14,293
+Sempre a luz na escuridão, Ancaeus.
+
+94
+00:10:15,923 --> 00:10:18,963
+Diga-me, o irmão Kazarion se sai bem?
+
+95
+00:10:19,623 --> 00:10:22,003
+Ele se foi há muito tempo.
+
+96
+00:10:22,793 --> 00:10:24,003
+Talvez muito longo.
+
+97
+00:10:25,623 --> 00:10:29,003
+Você está preocupado que o armazenamento de sementes genéticas não seja seguro?
+
+98
+00:10:30,003 --> 00:10:32,633
+Fui, por um tempo, considerado um noviço
+
+99
+00:10:32,713 --> 00:10:33,963
+para o Sacerdócio Sanguinário.
+
+100
+00:10:34,543 --> 00:10:35,623
+Eu sou...
+
+101
+00:10:35,713 --> 00:10:36,753
+protetora.
+
+102
+00:10:37,253 --> 00:10:41,463
+Incomum, mas você ascendeu sob o comando do Capitão Orfeu.
+
+103
+00:10:41,833 --> 00:10:44,873
+O comando lhe convém, Sargento Ancaeus.
+
+104
+00:10:44,963 --> 00:10:49,633
+Talvez, mas eu já acreditei que meu propósito era ser zelador.
+
+105
+00:10:50,373 --> 00:10:54,873
+Esses fragmentos retirados de nossos caídos viverão em nossos iniciados.
+
+106
+00:10:55,463 --> 00:11:00,133
+Tudo o que é carne perece, mas nós sobreviveremos no sangue
+
+107
+00:11:00,213 --> 00:11:02,423
+que flui através daqueles que vêm depois.
+
+108
+00:11:04,463 --> 00:11:06,753
+Falo fora de hora.
+
+109
+00:11:07,213 --> 00:11:09,133
+Uma visão intrigante.
+
+110
+00:11:09,713 --> 00:11:13,673
+Tudo pode ser reparado, feito novamente em sangue ou em ferro,
+
+111
+00:11:14,173 --> 00:11:17,713
+e assim atinge uma espécie de imortalidade.
+
+112
+00:11:19,083 --> 00:11:22,213
+Enquanto nos lembrarmos.
+
+113
+00:11:28,123 --> 00:11:31,293
+A máquina exige muito e leva mais ainda.
+
+114
+00:11:31,623 --> 00:11:33,663
+Eu fui feito um anjo
+
+115
+00:11:33,753 --> 00:11:37,633
+mas então metade da minha alma foi entregue à engrenagem de Marte.
+
+116
+00:11:38,373 --> 00:11:40,663
+Não digo isso com amargura.
+
+117
+00:11:41,173 --> 00:11:42,343
+É apenas uma verdade.
+
+118
+00:11:43,463 --> 00:11:46,093
+Você é um guerreiro exemplar.
+
+119
+00:11:46,503 --> 00:11:48,923
+Se você deseja ser introduzido no sacerdócio,
+
+120
+00:11:49,003 --> 00:11:50,633
+por que você não seguiu em frente?
+
+121
+00:11:51,123 --> 00:11:53,703
+Certamente o Sumo Sacerdote Córbulo teria acolhido-
+
+122
+00:11:53,793 --> 00:11:55,623
+Nós não escolhemos nosso dever.
+
+123
+00:11:58,373 --> 00:12:00,913
+Somente honra em seu cumprimento.
+
+124
+00:12:09,043 --> 00:12:10,253
+Comandante do navio,
+
+125
+00:12:10,333 --> 00:12:13,163
+há uma comunicação direta do Navegador Tabor.
+
+126
+00:12:13,463 --> 00:12:14,543
+Na voz.
+
+127
+00:12:24,583 --> 00:12:26,713
+Lívia... A noite se encerra...
+
+128
+00:12:26,793 --> 00:12:28,333
+Vermelho é o amanhecer...
+
+129
+00:12:28,423 --> 00:12:30,003
+Uma vela numa tempestade...
+
+130
+00:12:30,623 --> 00:12:34,413
+O sopro dos quatro ares separa os galhos da floresta.
+
+131
+00:12:35,333 --> 00:12:36,833
+As tempestades...
+
+132
+00:12:36,923 --> 00:12:38,003
+a Urdidura...
+
+133
+00:12:38,083 --> 00:12:39,663
+Luz do Imperador...
+
+134
+00:12:39,753 --> 00:12:43,673
+a maré baixa, a tempestade se acalma.
+
+135
+00:12:43,753 --> 00:12:47,583
+Navegador Tabor, seu antecessor sabia ir direto ao ponto.
+
+136
+00:12:47,673 --> 00:12:49,093
+Eu vejo...
+
+137
+00:12:49,543 --> 00:12:50,623
+Eu vejo...
+
+138
+00:12:50,713 --> 00:12:52,633
+uma passagem pela tempestade!
+
+139
+00:12:55,213 --> 00:12:57,253
+Você consegue ver uma saída para o sistema?
+
+140
+00:12:57,833 --> 00:12:59,463
+Um alinhamento temporário...
+
+141
+00:13:04,793 --> 00:13:06,503
+Invoque os Anjos.
+
+142
+00:13:33,083 --> 00:13:34,163
+Quanto tempo temos?
+
+143
+00:13:34,253 --> 00:13:35,753
+Não muito, meu senhor.
+
+144
+00:13:36,043 --> 00:13:39,003
+Isso é diferente de qualquer Warp Storm que eu já vi.
+
+145
+00:13:39,213 --> 00:13:40,463
+Por que eles não se movem?
+
+146
+00:13:40,923 --> 00:13:43,343
+Certamente seus próprios navegadores veem essa oportunidade.
+
+147
+00:13:43,923 --> 00:13:45,253
+Eles estão com medo, meu senhor.
+
+148
+00:13:45,833 --> 00:13:49,663
+A torre já nos solicitou que lideremos a flotilha através da passagem de tempestade.
+
+149
+00:13:50,003 --> 00:13:53,633
+Eles estão se movendo o mais rápido possível para evacuar o que sobrou na superfície.
+
+150
+00:13:53,713 --> 00:13:56,793
+-E o Capitão Orfeu? -Ainda nada, meu senhor.
+
+151
+00:13:57,373 --> 00:14:00,043
+Por tudo o que a torre nos oferece suprimentos e abrigo seguro,
+
+152
+00:14:00,123 --> 00:14:01,503
+a superfície poderia abrigar qualquer coisa.
+
+153
+00:14:01,583 --> 00:14:03,713
+É suposto ser uma desolação.
+
+154
+00:14:03,793 --> 00:14:07,623
+Mas o Capitão Orfeu não retornou daquela desolação.
+
+155
+00:14:08,083 --> 00:14:09,333
+Aqui há uma escolha.
+
+156
+00:14:10,423 --> 00:14:12,303
+Para localizar o retorno do Capitão,
+
+157
+00:14:12,713 --> 00:14:14,593
+ou siga nossas ordens para Baal.
+
+158
+00:14:14,673 --> 00:14:17,213
+Nosso primeiro dever é com o Capitão.
+
+159
+00:14:17,293 --> 00:14:20,543
+Conforme explicado, a superfície não pode ser tocada.
+
+160
+00:14:20,623 --> 00:14:22,663
+Então nós mesmos descemos.
+
+161
+00:14:22,753 --> 00:14:25,713
+Apenas onze de nós permanecem neste navio.
+
+162
+00:14:25,793 --> 00:14:29,833
+A semente genética armazenada em nosso porão deve ser devolvida a Baal.
+
+163
+00:14:29,923 --> 00:14:30,963
+E o Capitão?
+
+164
+00:14:31,543 --> 00:14:33,083
+Ele conhece nosso dever.
+
+165
+00:14:33,173 --> 00:14:36,423
+E parece que sou o único que se lembra do que é ter honra.
+
+166
+00:14:36,503 --> 00:14:38,133
+Como você pode dizer uma coisa dessas?
+
+167
+00:14:38,753 --> 00:14:41,253
+Não somos guerreiros solitários aqui, Kazarion.
+
+168
+00:14:41,873 --> 00:14:44,163
+Como você já soube e deveria se lembrar.
+
+169
+00:14:44,253 --> 00:14:45,383
+Suficiente.
+
+170
+00:14:47,583 --> 00:14:51,663
+Honra, dever, sangue e juramentos.
+
+171
+00:14:52,083 --> 00:14:56,753
+Nosso caminho não está em um, mas no fio da lâmina entre eles.
+
+172
+00:14:57,623 --> 00:15:00,833
+Duvidar um do outro é ser derrotado antes de enfrentar um inimigo.
+
+173
+00:15:03,003 --> 00:15:06,213
+Mesmo nesses momentos você ainda procura nos ensinar.
+
+174
+00:15:06,963 --> 00:15:09,633
+Que momento é melhor que uma crise?
+
+175
+00:15:22,463 --> 00:15:23,753
+Relatório!
+
+176
+00:15:26,543 --> 00:15:28,213
+Sinal de emergência detectado!
+
+177
+00:15:28,463 --> 00:15:29,753
+Código Vermilion!
+
+178
+00:15:29,833 --> 00:15:31,003
+Está vindo da superfície!
+
+179
+00:15:31,083 --> 00:15:33,913
+É fraco, mas de alguma forma está rompendo a interferência...
+
+180
+00:15:35,503 --> 00:15:38,923
+Meus senhores, corresponde ao farol do Capitão Orfeu!
+
+181
+00:15:47,083 --> 00:15:48,913
+Prepare-se para o ataque do Drop Pod.
+
+182
+00:16:04,623 --> 00:16:06,793
+Nós somos seus filhos...
+
+183
+00:16:08,793 --> 00:16:11,003
+Forjado para um propósito sombrio...
+
+184
+00:16:14,423 --> 00:16:16,093
+Vestida de vermelho...
+
+185
+00:16:17,753 --> 00:16:19,673
+Com fogo em nossas mãos...
+
+186
+00:16:20,293 --> 00:16:22,003
+E fúria em nossos corações...
+
+187
+00:16:25,083 --> 00:16:26,543
+Nós somos seus anjos...
+
+188
+00:16:27,423 --> 00:16:28,503
+E o nosso presente
+
+189
+00:16:29,293 --> 00:16:30,673
+é a morte.
+
+190
+00:16:39,463 --> 00:16:42,133
+Que as bênçãos do Omnissiah estejam com você.
+
+191
+00:16:42,213 --> 00:16:45,543
+Esteja pronto para nos resgatar quando o Thunderhawk estiver consertado.
+
+192
+00:16:45,623 --> 00:16:46,623
+Conformidade.
+
+193
+00:17:20,083 --> 00:17:21,583
+Drop Pod Secundus, pronto!
+
+194
+00:17:21,673 --> 00:17:23,003
+Drop Pod Quartus, pronto!
+
+195
+00:17:23,923 --> 00:17:26,423
+Ship Mistress, a proximidade da torre
+
+196
+00:17:26,503 --> 00:17:28,543
+está complicando nossa trajetória de lançamento.
+
+197
+00:17:28,833 --> 00:17:30,833
+Os espíritos da máquina governante protestam.
+
+198
+00:17:30,923 --> 00:17:32,253
+Substitua-os.
+
+199
+00:17:32,333 --> 00:17:33,913
+A lâmina cai ao seu comando.
+
+200
+00:17:35,003 --> 00:17:36,003
+Lançar.
